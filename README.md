@@ -1,4 +1,4 @@
-🛒 Java ile Alışveriş Sepeti Uygulaması
+#🛒 Java ile Alışveriş Sepeti Uygulaması
 
 Bu proje, Java kullanılarak geliştirilmiş basit bir alışveriş sepeti uygulamasıdır.
 Kullanıcıların ürün ekleyip çıkarabildiği ve toplam tutarı hesaplayabildiği temel bir konsol/masaüstü uygulamasıdır.
